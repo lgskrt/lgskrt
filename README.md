@@ -19,7 +19,7 @@ Hey, you can call me LG! 😎🌹
   <img align="center" alt="lg-Cplusplus" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />&ensp;
   <img align="center" alt="lg-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">&ensp;
   <img align="center" alt="lg-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">&ensp;
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;&ensp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp; &ensp;&ensp;
   <img align="center" alt="lg-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 </div><br>
 
