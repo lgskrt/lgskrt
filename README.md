@@ -9,7 +9,7 @@ Hey, you can call me LG! 😎🌹
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgskrt&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
 
-## I'm studing this languages! &ensp; &ensp; I will study this languages! &ensp; &ensp; This languages I've dominated!
+## I'm studing this languages! &ensp; &ensp; I will study this languages! &ensp; &ensp;
    <div style="display: inline_block"><br>
     &emsp; &ensp; &ensp; &ensp;
       <img align="center" alt="lg-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
@@ -19,9 +19,6 @@ Hey, you can call me LG! 😎🌹
       <img align="center" alt="lg-Cplusplus" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&ensp;
       <img align="center" alt="lg-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
       <img align="center" alt="lg-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&ensp;
-    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&ensp; &ensp; &ensp; 
-      <img align="center" alt="lg-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    </div><br>
 
 <h1>Infos</h1>
 
