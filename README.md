@@ -12,13 +12,13 @@ Hey, you can call me LG! 😎🌹
 ## I'm studing this languages! &ensp; &ensp; I will study this languages! &ensp; &ensp;
    <div style="display: inline_block"><br>
     &emsp; &ensp; &ensp; &ensp;
-      <img align="center" alt="lg-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
-      <img align="center" alt="lg-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
-      <img align="center" alt="lg-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
+      <img align="center" alt="lg-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&ensp;
+      <img align="center" alt="lg-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">&ensp;
+      <img align="center" alt="lg-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">&ensp;
     &emsp; &emsp; &ensp; &ensp; &emsp; &emsp; &ensp; &ensp; &ensp; &ensp; 
-      <img align="center" alt="lg-Cplusplus" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&ensp;
-      <img align="center" alt="lg-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
-      <img align="center" alt="lg-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&ensp;
+      <img align="center" alt="lg-Cplusplus" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />&ensp;
+      <img align="center" alt="lg-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">&ensp;
+      <img align="center" alt="lg-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">&ensp;
 
 <h1>Infos</h1>
 
