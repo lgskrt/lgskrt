@@ -1,6 +1,6 @@
 <div align="center">
 <h2>
-Hey, you can call me LG! 😎🌹
+Hey, you can call me LG!
 </h2>
 </div>
 
