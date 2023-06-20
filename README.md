@@ -9,7 +9,7 @@ Hey, you can call me LG!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgskrt&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
 
-## I'm studing this languages! &ensp; &ensp; I have knowledge in this languages! &ensp; &ensp;
+## I'm studing this languages! &ensp; &ensp; &ensp; I have knowledge in this languages! &ensp; &ensp; 
    <div style="display: inline_block"><br>
     &emsp; &ensp; &ensp; &ensp;
       <img align="center" alt="lg-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">&ensp;
