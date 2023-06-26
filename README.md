@@ -61,7 +61,6 @@ Hey, you can call me LG!
     <p> <div>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" target="_blank"></a>
     </div> </p>
     
 <h3> PC Configs </h3>
