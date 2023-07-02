@@ -65,6 +65,6 @@ Hey, you can call me LG!
     
 <h3> PC Configs </h3>
     <p> <div>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX1650_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_5_2400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
     </div> </p>
